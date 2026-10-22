@@ -1,0 +1,15 @@
+[Unit]
+Description=LED matrix clock + Paderborn temperature display
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=hwm
+WorkingDirectory=/home/hwm/led-calib
+ExecStart=/home/hwm/led-calib/venv/bin/python /home/hwm/led-calib/clock_weather.py
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
