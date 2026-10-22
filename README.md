@@ -7,7 +7,10 @@ needed), looping forever.
 
 Runs as a systemd service so it comes back up automatically on every reboot.
 
-<video src="https://github.com/harshareddy1611/pi-time-temp-display/raw/master/demo.mp4" controls width="400"></video>
+<img src="setup.jpg" width="400" alt="Raspberry Pi with Joy-IT LED matrix shield">
+<img src="demo.gif" width="400" alt="Demo: time and temperature scrolling on the LED matrix">
+
+([full-quality video](demo.mp4) also in this repo)
 
 ## Hardware
 
