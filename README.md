@@ -7,7 +7,7 @@ needed), looping forever.
 
 Runs as a systemd service so it comes back up automatically on every reboot.
 
-https://github.com/harshareddy1611/pi-time-temp-display/raw/master/demo.mp4
+<video src="https://github.com/harshareddy1611/pi-time-temp-display/raw/master/demo.mp4" controls width="400"></video>
 
 ## Hardware
 
