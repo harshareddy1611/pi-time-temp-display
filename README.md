@@ -7,6 +7,8 @@ needed), looping forever.
 
 Runs as a systemd service so it comes back up automatically on every reboot.
 
+https://github.com/harshareddy1611/pi-time-temp-display/raw/master/demo.mp4
+
 ## Hardware
 
 - Raspberry Pi (any model with a 40-pin GPIO header)
