@@ -10,8 +10,6 @@ Runs as a systemd service so it comes back up automatically on every reboot.
 <img src="setup.jpg" width="400" alt="Raspberry Pi with Joy-IT LED matrix shield">
 <img src="demo.gif" width="400" alt="Demo: time and temperature scrolling on the LED matrix">
 
-([full-quality video](demo.mp4) also in this repo)
-
 ## Hardware
 
 - Raspberry Pi (any model with a 40-pin GPIO header)
